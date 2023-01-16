@@ -17,7 +17,7 @@ body {
     background-image: url(/images/Frame\ 55.png);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 146vh;
+    height: 130vh;
 }
 
 .nav {
@@ -215,7 +215,7 @@ body {
 
 .elipe-4 {
     margin-left: 10px;
-    top: 640px;
+    top: 380px !important;
 }
 
 .about {
@@ -572,6 +572,13 @@ body {
         right: 150px;
     }
 
+    .design-text{
+ 
+            position: relative;
+            right: 10px;
+            margin-top: 80px;
+    }
+
     .pool {
         margin-top: 60px !important;
     }
@@ -594,7 +601,7 @@ body {
 
     .charges {
         position: relative;
-        right: 150px;
+        right: 160px;
         margin-top: 80px;
     }
 
